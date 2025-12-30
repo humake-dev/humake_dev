@@ -60,7 +60,7 @@ We develop a complete, end-to-end stack for gym operations.
 |-----|-----------|
 Backend | PHP, FastAPI (Python)
 API | REST, JWT Authentication
-Database | MySQL / PostgreSQL
+Database | MySQL / MariaDB
 Mobile | React Native
 Infra | Linux, Nginx
 
